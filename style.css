@@ -28,5 +28,6 @@ body {
 
 .limite{
     height: 100px;
+    max-width: 640px;
     
 }
